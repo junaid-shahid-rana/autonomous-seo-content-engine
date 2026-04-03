@@ -22,9 +22,10 @@ This repository contains the technical blueprint for a zero-touch SEO pipeline. 
 
 
 ## 📁 How to Use
-1. Import the `The Autonomous SEO Engine Architecture.blueprint.json` into a new **Make.com** scenario.
-2. Connect your Google Sheets, Google AI (Gemini), and WordPress credentials.
-3. Add your target keywords to the "Keyword" column and watch the engine scale your site.
+1. Download the `The Autonomous SEO Engine Architecture.blueprint.json` file from this repository.
+2. Go to **Make.com** and create a new scenario.
+3. Use the **"Import Blueprint"** option to upload the file.
+4. Connect your Google Sheets, Gemini AI, and WordPress credentials to the modules.
 
 ---
 
