@@ -3,7 +3,7 @@
 
 This repository contains the technical blueprint for a zero-touch SEO pipeline. It transforms a single keyword in Google Sheets into a 1,200+ word, high-authority article published directly to WordPress.
 
-
+![Autonomous SEO Content Engine Architecture](https://www.logicissue.com/wp-content/uploads/2026/04/Autonomous-SEO-Content-Engine-showing-the-workflow-between-Google-Sheets-Make.com-and-WordPress.jpg)
 
 ---
 
@@ -18,8 +18,6 @@ This repository contains the technical blueprint for a zero-touch SEO pipeline. 
 - **JSON Sanitization:** Automatic handling of markdown backticks and HTML single-quote enforcement.
 - **TOC Optimization:** Injected `\\n` breaks to ensure Table of Contents plugins recognize AI-generated headers.
 - **SEO Automation:** 100% automated metadata, slugs, and alt-text mapping.
-
-
 
 ## 📁 How to Use
 1. Download the `The Autonomous SEO Engine Architecture.blueprint.json` file from this repository.
